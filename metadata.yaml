@@ -1,0 +1,45 @@
+_repo: The-star-jewels-and-other-wonders_75499
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, Ethel C. (Ethel Clare)
+    alias: Brown, Ethel Clare
+    birthdate: 1875
+    deathdate: 1953
+    gutenberg_agent_id: '55323'
+    url: http://www.gutenberg.org/2009/agents/55323
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+    wikipedia: https://en.wikipedia.org/wiki/Abbie_Farwell_Brown
+description: ''
+gutenberg_issued: '2025-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75499'
+language: en
+pgterms:marc904: https://archive.org/details/starjewelsotherw00brow/mode/2up
+pgterms:marc905: 20241208074545brown
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Carla Foust, David E. Brown, Mary Fahnestock-Thomas, and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Foreword -- The star jewels -- Ocean wonders -- The balloon boy --
+  Balloons -- The green cap -- Child or fairy -- Karl and the dryad -- Trees -- The
+  Indian fairy -- Fairies.
+title: The star jewels, and other wonders
+url: http://www.gutenberg.org/ebooks/75499
