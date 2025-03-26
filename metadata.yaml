@@ -8,6 +8,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '55323'
     url: http://www.gutenberg.org/2009/agents/55323
+covers:
+- cover_type: archival
+  image_path: 75499-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Abbie Farwell
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5282
     wikipedia: https://en.wikipedia.org/wiki/Abbie_Farwell_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75499#The-star-jewels-and-other-wonders
 gutenberg_issued: '2025-03-02'
 gutenberg_type: Text
 identifiers:
